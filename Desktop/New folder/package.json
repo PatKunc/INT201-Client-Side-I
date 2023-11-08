@@ -1,0 +1,15 @@
+{
+  "name": "vuepro1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-client": "cd dekdTask && npm install",
+    "build-client": "cd dekdTask && npm run build",
+    "start-client" :"cd dekdTask && npm run dev"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
