@@ -1,0 +1,17 @@
+{
+    "name": "vuepro1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "install-client": "cd slotDeploy && npm install",
+        "build-client": "cd slotDeploy && npm run build",
+        "start-client": "cd slotDeploy && npm run dev && npm run backend"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "init": "^0.1.2"
+    }
+}
